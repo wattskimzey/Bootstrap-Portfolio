@@ -34,10 +34,7 @@ main {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
-.main-section {
-  float: left;
-  width: 50%;
-}
+
 /* NAV START */
 #logo {
   font-family: Georgia, Times, "Times New Roman", serif;
@@ -81,7 +78,6 @@ main {
   width: 55px;
   height: 55px;
 }
-
 
 #images {
   /* Box-model */
