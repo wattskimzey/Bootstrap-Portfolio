@@ -86,7 +86,7 @@ nav a:first-child{
     margin:0 0 40px 0;
     width:100%;
     max-width:650px;
-    float:left;
+    float:bottom;
     border:1px solid #ddd;
 }
 .auth-image{
